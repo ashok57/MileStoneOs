@@ -1,2 +1,2 @@
 console.log('Hello World')
-console.log('Welcome to Java vcscript')
+console.log('Welcome to Javascript')
